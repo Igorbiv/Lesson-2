@@ -1,4 +1,4 @@
-﻿namespace Lesson_2._1
+﻿namespace Lesson 2.1
 {
     internal class Program
     {
